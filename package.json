@@ -36,7 +36,7 @@
     "module-alias": "^2.2.2",
     "mongoose": "^5.9.22",
     "morgan": "^1.10.0",
-    "nanoid": "^3.1.10",
+    "nanoid": "^3.1.31",
     "valid-url": "^1.0.9",
     "winston": "^3.3.3"
   },
